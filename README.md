@@ -1,5 +1,6 @@
 # Plant Batch Grouper · 植物批量分组
 
+可能有用，但有用又不太可能
 Blender 草本植物整理插件：将独立的茎、叶和花头归成枝条，分批合并，再设置枝条根部原点与沿生长方向的局部 **+X**，供后续 Pivot Painter 数据烘焙使用。
 
 **正式版本：v2.3.2** · **作者：haoccy0u / Codex** · **许可证：GPL-3.0-or-later**

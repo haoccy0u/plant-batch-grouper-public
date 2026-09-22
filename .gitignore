@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.venv/
+.tools/
+.test-results/
+dist/
+*.blend
+*.blend[0-9]*
+*.zip
+backups/
+test_artifacts/
+local_archive/
+*.log
